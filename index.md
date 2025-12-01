@@ -15,4 +15,4 @@ I am an actuarial science major at CSUF and I plan on graduating in 2026!
 
 * Lab 7, part 1
 
-    This was another one of my favorite labs. We created a program for parking rules, something that could be used in real life to administer parking citations. We created functions for each street in our assignment consisting of different boolean statements, afterwards we used these functions to determine whether or not parking on a street was “allowed” or “not allowed”. This helped me gain a deep understanding on boolean statements and when to use operators.
+    This was another one of my favorite labs. We created a program for parking rules, something that could be used in real life to administer parking citations. We created functions for each street in our assignment consisting of different boolean statements, afterwards we used these functions to determine whether or not parking on a street was “allowed” or “not allowed”. This helped me gain a deep understanding on boolean statements and when to use certain operators.

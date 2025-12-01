@@ -1,7 +1,7 @@
 
 # Jaylah Moering's Portfolio
 
-I am an actuarial science major at CSUF and I plan on graduating in 2026!
+I am an actuarial science major at CSUF and I plan on graduating in 2026.
 
 ## Favorite CPSC 120L Labs
 

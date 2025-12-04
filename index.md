@@ -7,7 +7,7 @@ I am an actuarial science major at CSUF and I plan on graduating in 2026!
 
 * Lab 5, part 1
 
-    This was one of my favorite labs and it’s when the class started making more sense. In this lab we computed the area of a rectangle, this task is simple, so creating a program to do this helped me gain a deeper understanding on how to use functions to complete a task and streamline code. For example, instead of using “std::cout” then “std::cin” multiple times to prompt the user to input the length and width, we created a function called “PromptForInt” that will achieve the same result. 
+    This was one of my favorite labs and it’s when the class started making more sense. In this lab we computed the area of a rectangle, this task is simple, so creating a program to do this helped me gain a deeper understanding on how to use functions to complete a task and streamline code. For example, instead of using “std::cout” then “std::cin” multiple times to prompt the user to input the length and width, we created a function called “PromptForInt” that would achieve the same result. 
 
 * Lab 6, part 1
 
